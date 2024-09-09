@@ -12,3 +12,6 @@
 * GitHub
 * Netlify
 
+### Deploy Netlify
+
+https://tp-01react-ejercicio01.netlify.app/
