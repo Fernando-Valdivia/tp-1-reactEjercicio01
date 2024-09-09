@@ -1,6 +1,6 @@
 # Trabajo Practico de React 1 Ejercicio-01
 
-## EJERCICO:
+## EJERCICIO:
 
 ### 01 Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
 
